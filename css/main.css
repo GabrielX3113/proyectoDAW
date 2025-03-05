@@ -12,7 +12,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Rubik', sans-serif;
+    /* Cambio en el texto cambiando la fuente Por Youssef*/
+    font-family: 'Playfair Display', serif;
+
 }
 
 h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
@@ -238,12 +240,13 @@ main {
     justify-content: space-between;
 }
 
+/* cambie de color en el fondo del boton y en el texto por youssef*/
 .carrito-acciones-vaciar {
     border: 0;
-    background-color: var(--clr-gray);
+    background-color: red;
     padding: 1rem;
     border-radius: 1rem;
-    color: var(--clr-main);
+    color: var(--clr-white);
     text-transform: uppercase;
     cursor: pointer;
 }
@@ -262,10 +265,10 @@ main {
     border-bottom-left-radius: 1rem;
     gap: 1rem;
 }
-
+/* cambie de color en el fondo del boton por Youssef*/
 .carrito-acciones-comprar {
     border: 0;
-    background-color: var(--clr-main);
+    background-color: green;
     padding: 1rem;
     color: var(--clr-white);
     text-transform: uppercase;
