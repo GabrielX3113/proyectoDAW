@@ -22,7 +22,7 @@
     {
         "id": "abrigo-03",
         "titulo": "Abrigo 03",
-        "imagen": "./img/nuevosAbrigos/Abrigo03.webp",
+        "imagen": "./img/nuevosAbrigos/Abrigo03.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -32,7 +32,7 @@
     {
         "id": "abrigo-04",
         "titulo": "Abrigo 04",
-        "imagen": "./img/nuevosAbrigos/Abrigo04.webp",
+        "imagen": "./img/nuevosAbrigos/Abrigo04.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -42,7 +42,7 @@
     {
         "id": "abrigo-05",
         "titulo": "Abrigo 05",
-        "imagen": "./img/nuevosAbrigos/Abrigo05.avif",
+        "imagen": "./img/nuevosAbrigos/Abrigo05.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
