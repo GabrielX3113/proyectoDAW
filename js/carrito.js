@@ -139,4 +139,11 @@ function comprarCarrito() {
     contenedorCarritoAcciones.classList.add("disabled");
     contenedorCarritoComprado.classList.remove("disabled");
 
+	Swal.fire({
+        title: "¡Compra realizada!",
+        icon: "success",
+        text: "Gracias por tu compra. Recibirás un correo con los detalles.",
+        draggable: true
+    });
+
 }
