@@ -2,52 +2,52 @@
     {
         "id": "abrigo-01",
         "titulo": "Abrigo 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "imagen": "./img/nuevosAbrigos/Abrigo01.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 50
     },
     {
         "id": "abrigo-02",
         "titulo": "Abrigo 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "imagen": "./img/nuevosAbrigos/Abrigo02.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 60
     },
     {
         "id": "abrigo-03",
         "titulo": "Abrigo 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "imagen": "./img/nuevosAbrigos/Abrigo03.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 45
     },
     {
         "id": "abrigo-04",
         "titulo": "Abrigo 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "imagen": "./img/nuevosAbrigos/Abrigo04.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 55
     },
     {
         "id": "abrigo-05",
         "titulo": "Abrigo 05",
-        "imagen": "./img/abrigos/05.jpg",
+        "imagen": "./img/nuevosAbrigos/Abrigo05.avif",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 65
     },
     {
         "id": "camiseta-01",
